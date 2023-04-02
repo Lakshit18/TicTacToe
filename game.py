@@ -1,5 +1,5 @@
-def sum(a, b, c):
-    return a + b + c
+def sum(a, d, c):
+    return a + d + c
 
 
 def printBoard(xState, zState):
